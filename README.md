@@ -7,9 +7,9 @@ The purpouse of this project is to take the output of a competitive counter stri
 - Docker
 - docker-compose
 ## Pull
-`git clone git@github.com:linhphandk/csgo_visualizer_compose.git && \
-cd csgo_visualizer_compose.git && \
-git clone git@github.com:linhphandk/csgo_visualizer_back.git && \
+`git clone git@github.com:linhphandk/csgo_visualizer_compose.git &&
+cd csgo_visualizer_compose && 
+git clone git@github.com:linhphandk/csgo_visualizer_back.git &&
 git clone git@github.com:linhphandk/csgo_visualizer_front.git`
 
 ## To run
